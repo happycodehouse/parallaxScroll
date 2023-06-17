@@ -1,4 +1,4 @@
-# 📜 Parallax page - scroll
+# 🖱️ Parallax page - scroll
 As you move the mouse, you'll notice that the background image moves in the opposite direction of the mouse motion. <br />
 You can also see that as you scroll, the background image layer stretches to give the impression of layers.
 
